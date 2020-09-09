@@ -120,7 +120,7 @@ input, select, textarea {
 
 		a img {
 			border: 0;
-			margin:1rem;
+			
 		}
 
 	b, strong {
@@ -1767,6 +1767,10 @@ input, select, textarea {
 		}
 
 /* Social */
+
+ul.social-card{
+	list-style: none;
+}
 
 	ul.social {
 		cursor: default;
