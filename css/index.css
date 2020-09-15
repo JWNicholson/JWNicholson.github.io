@@ -238,6 +238,10 @@ footer p {
     padding: 6%;
 }
 
+.social . a {
+    color:whitesmoke;
+}
+
 /****** Media Queries */
 
 @media (max-width: 800px) {
